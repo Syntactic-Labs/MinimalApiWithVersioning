@@ -1,0 +1,7 @@
+@HostBaseUrl = https://localhost:44355/api/v1
+
+GET {{HostBaseUrl}}/GetHelloworld
+
+###
+
+GET {{HostBaseUrl}}/GetGoodByeWorld
